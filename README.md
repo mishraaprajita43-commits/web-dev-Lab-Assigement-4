@@ -1,4 +1,4 @@
-# weFintech Capstone Project
+# Fintech Capstone Project
 📌 Project Overview
 
 This project is based on Financial Technology (FinTech) which focuses on  digital payments, investment analysis, loan prediction.
